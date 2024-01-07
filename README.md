@@ -12,8 +12,6 @@ I'm a Software Enginner
 
 - 🔭 I’m currently working on Suitwedia
 - 🌱 I’m currently learning At University Of Sriwijaya
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Software Engineering And FullStack PHP Developer
 - 📫 How to reach me: Click My Social media on Profile
 
