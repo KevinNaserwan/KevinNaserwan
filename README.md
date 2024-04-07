@@ -12,7 +12,8 @@ I'm a Software Enginner
 
 - 🔭 I’m currently working on Suitwedia
 - 🌱 I’m currently learning At University Of Sriwijaya
-- 💬 Ask me about Software Engineering And FullStack PHP Developer
+- 💬 Ask me about Software Engineering
+-  I'm Backend PHP Developer, Backend Typescript Developer, Frontend Typescript Developer
 - 📫 How to reach me: Click My Social media on Profile
 
 <table align="center">
