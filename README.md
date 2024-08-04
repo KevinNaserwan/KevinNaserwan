@@ -14,7 +14,6 @@ I'm a Software Enginner
 - 🗺️ I'm currently woring on Meets Indonesia (PHP & GO Backend Developer)
 - 🌱 I’m currently learning At University Of Sriwijaya
 - 💬 Ask me about laravel, react, sql, firebase, typescript, python, golang, gin, microservice basics, grpc, kafka, docker, kubernetes, flutter
--  I'm Backend PHP Developer, Backend Go-Lang Developer, Frontend Typescript Developer
 - 📫 How to reach me: Click My Social media on Profile
 
 <table align="center">
