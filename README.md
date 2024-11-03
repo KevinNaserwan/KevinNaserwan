@@ -10,8 +10,9 @@ I'm a Software Enginner
 <!--- stats & Trophy (start) -->
 <p align="center">
 
+- 🔭 I’m currently  working on Serenade Story (PHP Backend Developer)
+- 🗺️ I'm currently woring on Meets Indonesia (PHP, GO & Typescript Backend Developer)
 - 🔭 I’m formerly working on Suitwedia (PHP Backend Developer)
-- 🗺️ I'm currently woring on Meets Indonesia (PHP & GO Backend Developer)
 - 🌱 I’m currently learning At University Of Sriwijaya
 - 💬 Ask me about laravel, react, sql, typescript, python, golang, gin, microservice basics, grpc, kafka, docker, kubernetes, flutter
 - 📫 How to reach me: Click My Social media on Profile
