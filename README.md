@@ -13,7 +13,6 @@ I'm a Software Enginner
 - 🔭 I’m currently  working on Hashmicro (Fullstack Developer)
 - 🗺️ I'm currently woring on Meets Indonesia (PHP, GO & Typescript Backend Developer)
 - 🔭 I’m formerly working on Suitwedia (PHP Backend Developer)
-- 🌱 I’m currently learning At University Of Sriwijaya
 - 💬 Ask me about laravel, react, sql, typescript, python, golang, gin, microservice basics, grpc, kafka, docker, kubernetes, flutter
 - 📫 How to reach me: Click My Social media on Profile
 
